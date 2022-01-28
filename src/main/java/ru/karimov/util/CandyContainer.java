@@ -1,7 +1,7 @@
-package ru.karimov.util;
+package main.java.ru.karimov.util;
 
-import ru.karimov.model.ICandy;
-import ru.karimov.model.ICandyEater;
+import main.java.ru.karimov.model.ICandy;
+import main.java.ru.karimov.model.ICandyEater;
 
 import java.util.Map;
 import java.util.concurrent.BlockingQueue;

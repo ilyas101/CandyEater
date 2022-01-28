@@ -1,4 +1,4 @@
-package ru.karimov.model;
+package main.java.ru.karimov.model;
 
 /**
  * Интерфейс пожирателя конфет, ест любые конфеты, но так как захочет.

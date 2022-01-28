@@ -1,9 +1,9 @@
-package ru.karimov.service;
+package main.java.ru.karimov.service;
 
-import ru.karimov.util.CandyContainer;
-import ru.karimov.util.Consumer;
-import ru.karimov.model.ICandy;
-import ru.karimov.model.ICandyEater;
+import main.java.ru.karimov.util.CandyContainer;
+import main.java.ru.karimov.util.Consumer;
+import main.java.ru.karimov.model.ICandy;
+import main.java.ru.karimov.model.ICandyEater;
 
 import java.util.*;
 import java.util.concurrent.*;

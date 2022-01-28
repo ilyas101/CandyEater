@@ -1,4 +1,4 @@
-package ru.karimov.model;
+package main.java.ru.karimov.model;
 
 /**
  * Конфета, имеет вкус, можно съесть

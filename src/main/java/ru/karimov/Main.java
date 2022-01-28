@@ -1,9 +1,9 @@
-package ru.karimov;
+package main.java.ru.karimov;
 
-import ru.karimov.model.Candy;
-import ru.karimov.model.CandyEater;
-import ru.karimov.service.CandyService;
-import ru.karimov.model.ICandyEater;
+import main.java.ru.karimov.model.Candy;
+import main.java.ru.karimov.model.CandyEater;
+import main.java.ru.karimov.service.CandyService;
+import main.java.ru.karimov.model.ICandyEater;
 
 public class Main {
 

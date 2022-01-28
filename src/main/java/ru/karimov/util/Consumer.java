@@ -1,10 +1,9 @@
-package ru.karimov.util;
+package main.java.ru.karimov.util;
 
-import ru.karimov.model.ICandy;
-import ru.karimov.model.ICandyEater;
+import main.java.ru.karimov.model.ICandy;
+import main.java.ru.karimov.model.ICandyEater;
 
 import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * Класс имплементрует в себе отдельный поток, в кот. пожиратель будет вытаскивать конфеты из очереди и пытаться их съесть

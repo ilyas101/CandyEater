@@ -1,7 +1,7 @@
-package ru.karimov.service;
+package main.java.ru.karimov.service;
 
-import ru.karimov.model.ICandy;
-import ru.karimov.model.ICandyEater;
+import main.java.ru.karimov.model.ICandy;
+import main.java.ru.karimov.model.ICandyEater;
 
 /**
  * Сервис пожирания конфет, требует реализации
